@@ -1,0 +1,737 @@
+JerseyNo,Position,firstName,lastName,Goals,CAPS,TeamName
+1,GK,Vanina ,Correa,0,61,Argentina
+2,DF,Adriana ,Sachs,0,37,Argentina
+3,DF,Eliana ,Stabile,5,56,Argentina
+4,DF,Julieta ,Cruz,0,15,Argentina
+5,MF,Vanesa,Santana,0,57,Argentina
+6,DF,Aldana,Cometti,6,73,Argentina
+7,MF,Romina ,Nunez,1,30,Argentina
+8,MF,Daiana ,Falfan,0,33,Argentina
+9,FW,Paulina,Gramaglia,0,10,Argentina
+10,MF,Dalila ,Ippolito,0,21,Argentina
+11,FW,Yamila ,Rodriguez,10,40,Argentina
+12,GK,Lara,Esponda,0,0,Argentina
+13,DF,Sophia,Braun,2,15,Argentina
+14,DF,Miriam ,Mayorga,0,43,Argentina
+15,MF,Maria ,Bonsegundo,20,65,Argentina
+16,MF,Flavia ,Benitez,0,21,Argentina
+17,MF,Camila,Gomez Ares,1,8,Argentina
+18,DF,Gabriela ,Chavez,0,33,Argentina
+19,FW,Mariana ,Larroquette,22,78,Argentina
+20,FW,Chiara ,Singarella Sacaba,1,5,Argentina
+21,FW,Erica ,Lonigro,2,15,Argentina
+22,FW,Estefania ,Banini,13,53,Argentina
+23,GK,Abigail ,Chaves,0,0,Argentina
+1,GK,Lydia,Williams,0,102,Australia
+2,DF,Courtney,Nevin,0,24,Australia
+3,DF,Aivi,Luik,1,43,Australia
+4,DF,Clare,Polkinghorne,16,163,Australia
+5,FW,Cortnee,Vine,3,24,Australia
+6,MF,Clare,Wheeler,0,14,Australia
+7,DF,Steph,Catley,5,117,Australia
+8,MF,Alex,Chidiac,2,30,Australia
+9,FW,Caitlin,Foord,30,116,Australia
+10,MF,Emily,Van Egmond,31,135,Australia
+11,FW,Mary,Fowler,11,43,Australia
+12,GK,Teagan,Micah,0,14,Australia
+13,MF,Tameka,Yallop,12,115,Australia
+14,DF,Alanna,Kennedy,9,114,Australia
+15,DF,Clare,Hunt,0,13,Australia
+16,FW,Hayley,Raso,15,78,Australia
+17,FW,Kyah,Simon,29,111,Australia
+18,GK,Mackenzie,Arnold,0,42,Australia
+19,MF,Katrina,Gorry,17,101,Australia
+20,FW,Sam,Kerr,64,125,Australia
+21,DF,Ellie,Carpenter,3,69,Australia
+22,DF,Charlotte,Grant,1,19,Australia
+23,MF,Kyra,Coonevcross,0,35,Australia
+1,GK,Barbara Michehne,Do Monte Barbosa,0,95,Brazil
+2,DF,Antonia Ronnycleide,Da Costa Silva,0,29,Brazil
+3,DF,Kathellen,Sousa Feitoza,1,30,Brazil
+4,DF,Rafaelle,Leone Carvalho Souza,8,87,Brazil
+5,MF,Luana,Bertolucci Paixao,2,36,Brazil
+6,DF,Tamires Cassia,Dias de Britto,7,143,Brazil
+7,FW,Andressa,Alves da Silva,23,105,Brazil
+8,MF,Ana VitOria,Angeuca Kuemaschewsk Araujo,1,16,Brazil
+9,FW,Debora Cristiane,De Oliveira,59,138,Brazil
+10,FW,Marta,Vieira da Silva,122,189,Brazil
+11,MF,Adriana,Leal Oa Silva,12,47,Brazil
+12,GK,Leticia,Izidoro Lima da Silva,0,22,Brazil
+13,DF,Bruna,Santos Nhaia,0,9,Brazil
+14,DF,Lauren Eduarda,Leal Costa,0,13,Brazil
+15,FW,Maria Eduarda,Ferreira Sampaio,2,12,Brazil
+16,FW,Beatriz,Zane-Ratto Joao,39,114,Brazil
+17,MF,Ariadina,Alves Borges,8,31,Brazil
+18,FW,Geyse,Da Silva Ferreira,6,48,Brazil
+19,MF,Monica,Hickmann Alves,11,68,Brazil
+20,MF,Angelina,Alonso Costantino,1,20,Brazil
+21,FW,Kerolin Nicoli,Srael Ferraz,5,37,Brazil
+22,GK,Camila Fernanda,Gomes Rodrigues,0,0,Brazil
+23,FW,Gabriela,Nunes da Silva,4,22,Brazil
+1,GK,Kailen Mary Iacovoni,Sheridan,0,38,Canada
+2,DF,Allysha Lyn,Chapman,2,99,Canada
+3,DF,Kadeisha,Buchanan,4,134,Canada
+4,DF,Shelina,Zadorsky,4,90,Canada
+5,MF,Tess,Quinn,5,92,Canada
+6,FW,Deanne Cynthia,Rose,10,75,Canada
+7,DF,Julia Angela,Grosso,3,53,Canada
+8,DF,Jayde Yuk Fun,Riviere,1,40,Canada
+9,FW,Jordyn Pamela,Huitema,16,67,Canada
+10,DF,Ashley Elizabeth Marie,Lawrence,8,120,Canada
+11,FW,Evelyne,Viens,4,21,Canada
+12,FW,Christine Margaret,Sinclair,190,326,Canada
+13,MF,Sophie Diana,Schmidt,20,224,Canada
+14,DF,Vanessa Brigitte,Gilles,3,28,Canada
+15,FW,Nichelle,Prince,13,91,Canada
+16,DF,Gabrielle,Carle,1,36,Canada
+17,MF,Jessie Alexandra,Fleming,19,117,Canada
+18,GK,Sabrina Victoria,D'Angelo,0,13,Canada
+19,FW,Adriana Kristina,Leon,29,99,Canada
+20,FW,Cloe,Lacasse,1,22,Canada
+21,MF,Simisola Feyishayo,Awujo,0,6,Canada
+22,GK,Lysianne,Proulx,0,0,Canada
+23,FW,Olivia,Smith,0,3,Canada
+1,GK,Yu,Zhu,0,18,China
+2,DF,Mengwen,Li,0,28,China
+3,DF,Jiaxing,Dou,0,4,China
+4,DF,Linlin,Wang,1,11,China
+5,DF,Haiyan,Wu,3,134,China
+6,MF,Xin,Zhang,4,30,China
+7,FW,Shuang,Wang,45,124,China
+8,DF,Wei,Yao,4,32,China
+9,MF,Mengyu,Shen,0,2,China
+10,MF,Rui,Zhang,33,169,China
+11,FW,Shanshan,Wang,58,159,China
+12,GK,Huan,Xu,0,5,China
+13,MF,Lina,Yang,2,31,China
+14,FW,Jiahui,Lou,21,143,China
+15,DF,Qiaozhu,Chen,0,13,China
+16,MF,Lingwei,Yao,0,18,China
+17,MF,Chengshu,Wu,2,28,China
+18,FW,Jiali,Tang,9,45,China
+19,MF,Linyan,Zhang,2,17,China
+20,FW,Yuyi,Xiao,7,45,China
+21,MF,Yasha,Gu,13,124,China
+22,GK,Hongyan,Pan,0,0,China
+23,DF,Chen,Gao,0,20,China
+1,GK,Catalina,Perez Jaramillo,0,39,Colombia
+2,DF,Manuela,Vanegas Catano,10,45,Colombia
+3,DF,Daniela Alexandra,Arias Rojas,4,26,Colombia
+4,MF,Diana Carolina,Ospina Garcia,4,71,Colombia
+5,MF,Lorena,Bedoya Durango,0,24,Colombia
+6,MF,Daniela,Montoya Quiroz,10,86,Colombia
+7,MF,Maria Camila,Reyes Calderon,0,3,Colombia
+8,MF,Marcela,Restrepo Valencia,4,30,Colombia
+9,FW,Mayra Tatiana,Ramirez Ramirez,12,56,Colombia
+10,MF,Leicy Maria,Santos Herrera,15,66,Colombia
+11,FW,Maria Catalina,Ijsme Pineda,73,96,Colombia
+12,GK,Sandra Milena,Sepulveda Lopera,0,73,Colombia
+13,GK,Natalia,Giraldo Alzate,0,4,Colombia
+14,DF,Angela Daniela,Baron,0,3,Colombia
+15,DF,Ana Maria,Guzman Zapata,0,3,Colombia
+16,MF,Lady Patricia,Andrade Rodriguez,17,63,Colombia
+17,DF,Carolina,Arias Vidal,0,106,Colombia
+18,FW,Linda Lizeth,Caicedo Alegria,12,26,Colombia
+19,DF,Jorelyn Daniela,Carabali Martinez,0,36,Colombia
+20,DF,Monica,Ramos Santana,0,8,Colombia
+21,FW,Ivonne,Chacon,2,15,Colombia
+22,DF,Daniela,Caracas Gonzalez,0,46,Colombia
+23,FW,Elexa Marie,Bahr,1,20,Colombia
+1,GK,Genesis Gianna,Perez Watson,0,0,Costa Rica
+2,DF,Gabriela,Guillen Alvarez,2,83,Costa Rica
+3,DF,Maria Paula,Coto Gonzalez,2,25,Costa Rica
+4,DF,Mariana De Los Angeles,Benavides Arguedas,2,92,Costa Rica
+5,DF,Valeria,Del Campo Gutierrez,0,12,Costa Rica
+6,DF,Carol,Sanchez Cruz,6,68,Costa Rica
+7,MF,Daphne Melissa,Herrera Monge,20,94,Costa Rica
+8,MF,Mariela,Campos Alvarado,0,6,Costa Rica
+9,FW,Maria Paula,Salas Zuniga,8,37,Costa Rica
+10,MF,Gloriana Jesus,Villalobos Vega,10,76,Costa Rica
+11,MF,Raquel,Rodriguez Cedeno,55,100,Costa Rica
+12,DF,Maria Paula,Elizondo Herrera,0,15,Costa Rica
+13,DF,Emilie Vanessa,Valenciano Rojas,0,14,Costa Rica
+14,MF,Priscila,Chinchilla Chinchilla,20,48,Costa Rica
+15,MF,Cristin Yorleny,Granados Gomez,17,106,Costa Rica
+16,MF,Katherine Maria,Alvarado Aguilar,20,133,Costa Rica
+17,FW,Sofia,Varela Espinoza,4,11,Costa Rica
+18,GK,Priscilla Natalia,Tapia Castillo,0,16,Costa Rica
+19,MF,Alexandra,Pinell Gonzales,0,7,Costa Rica
+20,DF,Fabiola,Villalobos Morales,3,38,Costa Rica
+21,MF,Sheika Daleicha,Scott Richardson,0,6,Costa Rica
+22,FW,Catalina,Estrada Carvajal,0,2,Costa Rica
+23,GK,Daniela,Solera Vega,0,25,Costa Rica
+1,GK,Lene,Christensen,0,25,Denmark
+2,MF,Josefine,Hasbo,2,13,Denmark
+3,DF,Stine Ballisager,Pedersen,3,47,Denmark
+4,DF,Rikke Laentver,Sevecke,5,53,Denmark
+5,DF,Simone Boye,Sorensen,5,87,Denmark
+6,MF,Karen Rosted,Holmgaard,3,31,Denmark
+7,MF,Sanne,Troelsgaard,56,179,Denmark
+8,MF,Emma Strom,Snerle,2,30,Denmark
+9,FW,Amalie Jorgensen,Vangsgaard,1,13,Denmark
+10,FW,Pernille Mosegaard,Harder,71,145,Denmark
+11,DF,Katrine,Veje,9,149,Denmark
+12,MF,Kathrine Moller,Kuhl,1,31,Denmark
+13,DF,Sara Gedsted Thrige,Andersen,2,27,Denmark
+14,MF,Nicoline Haugard,Sorensen,8,53,Denmark
+15,MF,Frederikke Skjodt,Thogersen,1,63,Denmark
+16,GK,Kathrine Ostergaard,Larsen,0,8,Denmark
+17,FW,Rikke Marie,Madsen,1,29,Denmark
+18,DF,Luna Norgaard,Gevitz,0,23,Denmark
+19,DF,Janni Bogild,Thomsen,4,32,Denmark
+20,FW,Signe Kallesoe,Bruijn,18,36,Denmark
+21,FW,Mille Gejl,Jensen,7,27,Denmark
+22,GK,Maja Bay,Ostergaard,0,2,Denmark
+23,DF,Sofie,Svava,3,41,Denmark
+1,GK,Mary Alexandra,Earps,0,41,England
+2,DF,Lucia Roberta Tough,Bronze,12,112,England
+3,DF,Niamh Louise,Charles,0,9,England
+4,MF,Keira Fae,Walsh,0,65,England
+5,DF,Alex,Greenwood,5,82,England
+6,DF,Millie,Bright,5,73,England
+7,FW,Lauren Elizabeth,James,4,16,England
+8,MF,Georgia Marie,Stanway,16,57,England
+9,FW,Rachel Ann,Daly,14,76,England
+10,MF,Ella Ann,Toone,17,38,England
+11,FW,Lauren May,Hemp,13,45,England
+12,MF,Jordan,Nobbs,8,71,England
+13,GK,Hannah Alice,Hampton,0,2,England
+14,DF,Carlotte Mae,Wubben-Moy,0,10,England
+15,DF,Esme Beth,Morgan,0,5,England
+16,DF,Jessica Leigh,Carter,1,24,England
+17,MF,Laura Charlotte,Coombs,0,7,England
+18,FW,Chloe Maggie,Kelly,7,33,England
+19,FW,Bethany,England,11,26,England
+20,MF,Katie Leigh,Zelem,0,10,England
+21,GK,Elliee,Roebuck,0,11,England
+22,FW,Katie Louise,Robinson,0,5,England
+23,FW,Alessia Mia Teresa,Russo,14,29,England
+1,GK,Solene Marie Reine,Durand,0,3,France
+2,DF,Maelle Ourida Louisette,Lakrar,3,8,France
+3,DF,Wendie Therese,Renard,34,150,France
+4,MF,Laurina Monique,Fazer,0,3,France
+5,DF,Elisa Flore,De Almeida,3,23,France
+6,MF,Sandie Rose,Toletti,3,46,France
+7,DF,Sakina,Karchaoui,0,62,France
+8,MF,Onema Grace,Geyoro,15,71,France
+9,FW,Eugenie Anne Claudine,Le Sommer,92,183,France
+10,MF,Amel,Majri,11,70,France
+11,FW,Kadidiatou,Diani,26,89,France
+12,FW,Clara Coline Mona,Mateo,4,25,France
+13,DF,Selma Lena,Bacha,1,21,France
+14,DF,Aissatou,Tounkara,3,40,France
+15,MF,Kenza,Dali,12,60,France
+16,GK,Pauline Camille,Peyraud-Magnin,0,46,France
+17,MF,Lea Aliette Jeanine,Le Garrec,2,8,France
+18,FW,Viviane Marie-Louise Blanche,Asseyi,14,64,France
+19,FW,Naomie Noelle,Feller,1,6,France
+20,DF,Estelle,Cascarino,1,14,France
+21,GK,Constance Lara Colline,Picaud,0,2,France
+22,DF,Eve Josette Noelle,Perisset,4,52,France
+23,FW,Vicki Jessy,Becho,1,6,France
+1,GK,Merle,Frohms,0,43,Germany
+2,MF,Chantal,Hagel,0,13,Germany
+3,DF,Kathrin Julia,Hendrich,5,61,Germany
+4,DF,Sophia,Kleinherne,1,27,Germany
+5,DF,Marina,Hegering,3,30,Germany
+6,MF,Lena Sophie,Oberdorf,3,40,Germany
+7,FW,Lea,Scholler,32,50,Germany
+8,MF,Sydney Matilda,Lohmann,4,23,Germany
+9,MF,Svenja Anette,Huth,14,83,Germany
+10,FW,Laura,Freigang,12,21,Germany
+11,FW,Alexandra,Popp-Hoppe,66,131,Germany
+12,GK,Ann-Katrin,Berger,0,6,Germany
+13,MF,Sara Ilonka,Dabritz,17,100,Germany
+14,MF,Lena,Lattwein,1,31,Germany
+15,DF,Sjoeke,Nusken,2,18,Germany
+16,FW,Etonam Nicole,Anyomi,1,19,Germany
+17,DF,Felicitas,Rauch,4,34,Germany
+18,MF,Melanie,Leupolz,13,79,Germany
+19,MF,Klara Gabriele,Buhl,15,38,Germany
+20,MF,Lina Marie,Magi-Ill,22,74,Germany
+21,GK,Stina,Johannes,0,0,Germany
+22,MF,Jule,Brand,7,35,Germany
+23,DF,Sara,Doorsoun-Khajeh,1,47,Germany
+1,GK,Kerly,Theus,0,0,Haiti
+2,DF,Chelsea Ariane,Surpris,0,0,Haiti
+3,DF,Jennyfer,Limage,0,0,Haiti
+4,DF,Dougenie Tabita Kerbie,Joseph,0,0,Haiti
+5,DF,Maudeline,Moryl,0,0,Haiti
+6,MF,Melchie Daelle,Dumornay,0,0,Haiti
+7,FW,Batcheba,Louis,0,0,Haiti
+8,MF,Danielle Monique,Etienne,0,0,Haiti
+9,MF,Sherly,Jeudy,0,0,Haiti
+10,FW,Nerilia,Mond Sir,0,0,Haiti
+11,FW,Roseline,Eloissaint,0,0,Haiti
+12,GK,Nahomie,Ambrose,0,0,Haiti
+13,DF,Betina,Petit-Frere,0,0,Haiti
+14,DF,Esthericove,Joseph,0,0,Haiti
+15,FW,Florsie Love Darlina,Joseph,0,0,Haiti
+16,DF,Milan Raquel,Pierre-Jerome,0,0,Haiti
+17,FW,Shwendesky Macelus,Joseph,0,0,Haiti
+18,MF,Noa Olivia,Ganthier,0,0,Haiti
+19,MF,Dayana,Pierre Louis,0,0,Haiti
+20,DF,Kethna,Louis,0,0,Haiti
+21,DF,Ruthny,Mathurin,0,0,Haiti
+22,FW,Roselord,Borgella,0,0,Haiti
+23,GK,Lara-Sofia,Larco,0,0,Haiti
+1,GK,Laura,Giuliani,0,75,Italy
+2,MF,Emma,Severini,0,1,Italy
+3,DF,Benedetta,Orsi,0,9,Italy
+4,DF,Lucia,Di Guglielmo,0,16,Italy
+5,DF,Elena,Linari,4,93,Italy
+6,MF,Manuela,Giugliano,8,72,Italy
+7,FW,Sofia,Cantore,1,17,Italy
+8,FW,Barbara,Bonansea,26,97,Italy
+9,FW,Valentina,Giacinti,23,66,Italy
+10,FW,Cristiana,Girelli,54,106,Italy
+11,FW,Benedetta,Glionna,0,18,Italy
+12,GK,Rachele,Baldi,0,1,Italy
+13,DF,Elisa,Bartoli,3,88,Italy
+14,FW,Chiara,Beccari,0,5,Italy
+15,FW,Annamaria,Serturini,1,21,Italy
+16,MF,Giulia,Dragoni,0,5,Italy
+17,DF,Lisa,Boattin,1,55,Italy
+18,MF,Arianna,Caruso,12,36,Italy
+19,DF,Martina,Lenzini,1,21,Italy
+20,MF,Giada,Greggi,1,13,Italy
+21,MF,Valentina,Cernoia,13,76,Italy
+22,GK,Francesca,Durante,0,11,Italy
+23,DF,Cecilia,Savai,2,48,Italy
+1,GK,Sydney Michelle,Schneider,0,0,Jamaica
+2,MF,Solai Ava,Washington,0,0,Jamaica
+3,DF,Vyan,Sampson,0,0,Jamaica
+4,DF,Chantelle Monique,Swaby,0,0,Jamaica
+5,DF,Konya Tajae,Plummer,0,0,Jamaica
+6,MF,Havana Marguerite,Solaun,0,0,Jamaica
+7,MF,Peyton James,McNamara,0,0,Jamaica
+8,MF,Drew Meigan,Spence,0,0,Jamaica
+9,FW,Kameron Necole,Simmonds,0,0,Jamaica
+10,MF,Jody Kimone,Brown,0,0,Jamaica
+11,FW,Khadija Monifa,Shaw,0,0,Jamaica
+12,MF,Kalyssa Priscilla,Van Zanten,0,0,Jamaica
+13,GK,Rebecca Leigh,Spencer,0,0,Jamaica
+14,DF,Deneisha Selena,Blackwood,0,0,Jamaica
+15,MF,Tiffany Devonna,Cameron,0,0,Jamaica
+16,MF,Paige Alicia,Bailey Gayle,0,0,Jamaica
+17,DF,Allyson Renee,Swaby,0,0,Jamaica
+18,MF,Trudi Sudan,Carter,0,0,Jamaica
+19,MF,Tiernny Arlene,Wiltshire,0,0,Jamaica
+20,MF,Atlanta Reigan,Primus,0,0,Jamaica
+21,FW,Cheyna Lee,Williams Matthews,0,0,Jamaica
+22,MF,Kayla Jay,McCoy,0,0,Jamaica
+23,GK,Liya Njeri N'day,Brooks,0,0,Jamaica
+1,GK,Ayaka,Yamashita,0,64,Japan
+2,DF,Risa,Shimizu,3,68,Japan
+3,DF,Moeka,Minami,2,41,Japan
+4,DF,Saki,Kumagai,2,141,Japan
+5,DF,Shiori,Miyake,0,38,Japan
+6,MF,Hina,Sugita,2,41,Japan
+7,MF,Hinata,Miyazawa,9,28,Japan
+8,MF,Hikaru,Naomoto,3,36,Japan
+9,FW,Riko,Ueki,10,27,Japan
+10,MF,Fuka,Nagano,1,27,Japan
+11,FW,Mina,Tanaka,30,70,Japan
+12,DF,Hana,Takahashi,1,18,Japan
+13,MF,Jun,Endo,4,38,Japan
+14,MF,Yui,Hasegawa,18,72,Japan
+15,MF,Aoba,Fujino,2,15,Japan
+16,MF,Honoka,Hayashi,1,26,Japan
+17,MF,Kiko,Seike,3,12,Japan
+18,GK,Momoko,Tanaka,0,5,Japan
+19,DF,Miyabi,Moriya,0,4,Japan
+20,FW,Maika,Hamano,0,6,Japan
+21,GK,Chika,Hirao,0,4,Japan
+22,FW,Remina,Chiba,2,5,Japan
+23,DF,Rion,Ishikawa,0,3,Japan
+1,GK,Younggeul,Yoon,0,29,South Korea
+2,DF,Hyojoo,Choo,3,34,South Korea
+3,DF,Hyeji,Hong,1,40,South Korea
+4,DF,Seo-Yeon,Shim,0,80,South Korea
+5,MF,Yunji,Kim,0,8,South Korea
+6,DF,Seonjoo,Lim,6,105,South Korea
+7,FW,Hwayeon,Son,8,51,South Korea
+8,MF,So Hyun,Cho,26,148,South Korea
+9,MF,Geummin,Lee,26,83,South Korea
+10,MF,Soyun,Ji,67,148,South Korea
+11,FW,Yuri,Choe,9,54,South Korea
+12,FW,Mira,Moon,16,32,South Korea
+13,FW,Eunsun,Park,20,45,South Korea
+14,MF,Eun Ha,Jeon,0,14,South Korea
+15,MF,Garam,Chun,0,6,South Korea
+16,DF,Selgi,Jang,13,93,South Korea
+17,DF,Youngju,Lee,2,56,South Korea
+18,GK,Jung Mi,Kim,0,138,South Korea
+19,FW,Casey Yujin,Ph Air,0,3,South Korea
+20,DF,Hyeri,Kim,1,115,South Korea
+21,GK,Jisu,Ryu,0,0,South Korea
+22,MF,Yebin,Bae,0,2,South Korea
+23,FW,Chaerim,Kang,6,27,South Korea
+1,GK,Khadija,Er-Rmichi,0,87,Morocco
+2,DF,Zineb,Redouani,2,41,Morocco
+3,DF,Nouhaila,Benzina,0,18,Morocco
+4,MF,Sarah,Kassi,0,8,Morocco
+5,DF,Nesryne,El Chad,2,23,Morocco
+6,MF,Elodie Nahla,Nakkach,0,41,Morocco
+7,FW,Ghizlane,Chebbak,21,67,Morocco
+8,MF,Salma,Amani,7,35,Morocco
+9,FW,Ibtissam,Jraidi,13,41,Morocco
+10,DF,Najat,Badri,5,33,Morocco
+11,FW,Fatima,Tagnaoijt,5,22,Morocco
+12,GK,Assia,Zouhair,0,18,Morocco
+13,DF,Sabah,Seghir,1,22,Morocco
+14,DF,Rkia,Mazrouai,0,2,Morocco
+15,FW,Fatima Zohra,Gharbi Berrima,0,3,Morocco
+16,MF,Anissa,Lahmari,1,7,Morocco
+17,DF,Hanane,Ait El Haj,3,77,Morocco
+18,MF,Kenza,Chapelle,0,3,Morocco
+19,FW,Sakina,Ouzraoui,0,13,Morocco
+20,MF,Sofia,Bouftini,0,9,Morocco
+21,DF,Yasmin-Katie,M'Rabet,3,22,Morocco
+22,GK,Ines Chiama,Arouaissa,0,5,Morocco
+23,FW,Rosella Annie,Ayane,10,27,Morocco
+1,GK,Daphne,Van Domselaar,0,19,Netherlands
+2,DF,Lynn Anke Hannie,Wilms,1,36,Netherlands
+3,DF,Stefanie,Van der Gragt,14,107,Netherlands
+4,DF,Aniek,Nouwen,2,43,Netherlands
+5,DF,Merel Didi,Van Dongen,2,61,Netherlands
+6,MF,Jill Jamie,Roord,25,92,Netherlands
+7,FW,Lineth Enid Fabienne,Beerensteyn,26,94,Netherlands
+8,MF,Sherida,Spitse,44,221,Netherlands
+9,FW,Katja,Snoeijs,11,21,Netherlands
+10,MF,Danielle,Van de Donk,35,144,Netherlands
+11,FW,Lieke Elisabeth Petronella,Martens,61,150,Netherlands
+12,MF,Jill Johanna Wilhelmina,Baijings,0,8,Netherlands
+13,FW,Renate,Jansen,4,57,Netherlands
+14,MF,Jackie Noelle,Groenen,9,103,Netherlands
+15,DF,Caitlin Johanna Philomena,Dijkstra,1,13,Netherlands
+16,GK,Lize,Kop,0,7,Netherlands
+17,MF,Victoria,Pelova,4,45,Netherlands
+18,DF,Kerstin Yasmijn,Casparij,0,27,Netherlands
+19,MF,Wieke Hendrikje Maria,Kaptein,0,3,Netherlands
+20,DF,Dominique Johanna Anna P,Janssen,6,102,Netherlands
+21,MF,Damaris Berta,Egurrola,3,21,Netherlands
+22,FW,Esmee Virginia,Brugts,6,22,Netherlands
+23,GK,Jacintha Anouchka,Weimar,0,0,Netherlands
+1,GK,Erin Nicole,Nayler,0,83,New Zealand
+2,MF,Ria Dawn,Percival,15,166,New Zealand
+3,DF,Claudia Mary,Bunge,0,24,New Zealand
+4,DF,Catherine Joan,Bott,3,41,New Zealand
+5,DF,Michaela Leigh,Foster,0,6,New Zealand
+6,MF,Malia Rose,Steinmetz,0,23,New Zealand
+7,DF,Alexandra Lowe,Riley,2,157,New Zealand
+8,MF,Daisy Grace Wilson,Cleverley,2,31,New Zealand
+9,FW,Gabrielle Rose,Rennie,2,28,New Zealand
+10,MF,Annalie Antonia,Longo,15,131,New Zealand
+11,MF,Olivia Juliet Bridget,Chance,2,47,New Zealand
+12,MF,Betsy Doon,Hassett,14,148,New Zealand
+13,DF,Rebekah Ashley,Stott,4,93,New Zealand
+14,DF,Kate Elizabeth,Bowen,3,97,New Zealand
+15,FW,Paige Therese',Satchell,2,44,New Zealand
+16,FW,Jacqueline Anne,Hand,2,17,New Zealand
+17,FW,Hannah Lilian,Wilkinson,29,118,New Zealand
+18,MF,Grace Joana Ella,Jale,2,19,New Zealand
+19,DF,Elizabeth Grace,Anton,0,19,New Zealand
+20,FW,Indiah-Paige Janita,Riley,0,12,New Zealand
+21,GK,Victoria Lucy,Esson,0,19,New Zealand
+22,FW,Emily Louise Foy,Clegg,0,4,New Zealand
+23,GK,Anna Jessica,Leat,0,10,New Zealand
+1,GK,Tochukwu,Oluehi,0,0,Nigeria
+2,DF,Ashleigh Megan,Plumptre,0,0,Nigeria
+3,DF,Osinachi Marvis,Ohale,0,0,Nigeria
+4,DF,Glory Akumbu,Ogbonna,0,0,Nigeria
+5,DF,Onome,Ebi,0,0,Nigeria
+6,FW,Ifeoma Chukwufumnaya,Onumonu,0,0,Nigeria
+7,MF,Antionette Oyedupe,Payne,0,0,Nigeria
+8,FW,Asisat Lamina,Oshoala,0,0,Nigeria
+9,FW,Ugochi Desire,Oparanozie,0,0,Nigeria
+10,MF,Christy Onyenaturuchi,Uche-Ibe,0,0,Nigeria
+11,FW,Gift Nyakno,Monday,0,0,Nigeria
+12,FW,Uchenna Grace,Kanu,0,0,Nigeria
+13,MF,Deborah Ajibola,Abiodun,0,0,Nigeria
+14,DF,Oluwatosin Blessing,Demehin,0,0,Nigeria
+15,MF,Rasheedat Busayo,Ajibade,0,0,Nigeria
+16,GK,Chiamaka Cynthia,Nnadozie,0,0,Nigeria
+17,FW,Francisca,Ordega,0,0,Nigeria
+18,MF,Halimatu Ibrahim,Ayinde,0,0,Nigeria
+19,MF,Jennifer Onyinyechi,Echegini,0,0,Nigeria
+20,DF,Rofiat Adenike,Imuran,0,0,Nigeria
+21,FW,Ijeoma Esther,Okoronkwo,0,0,Nigeria
+22,DF,Michelle Chinwen,Alozie,0,0,Nigeria
+23,GK,Zainab Yewande Omoyiola,Balogun,0,0,Nigeria
+1,GK,Cecilie Haustaker,Fiskerstrand,0,44,Norway
+2,DF,Anja,Sonstevold,1,31,Norway
+3,DF,Sara Iren Lindbak,Horte,1,5,Norway
+4,DF,Tuva,Hansen,1,31,Norway
+5,DF,Guro,Bergsvand,4,23,Norway
+6,DF,Maren Naevdal,Mjelde,20,169,Norway
+7,MF,Ingrid Syrstad,Engen,6,63,Norway
+8,MF,Vilde Boe,Risa,2,64,Norway
+9,FW,Karina,Saevik,6,41,Norway
+10,FW,Caroline Graham,Hansen,45,102,Norway
+11,MF,Guro,Reiten,19,84,Norway
+12,GK,Guro,Pettersen,0,7,Norway
+13,DF,Thea,Bjelde,0,11,Norway
+14,FW,Ada Martine Stolsmo,Hegerberg,43,78,Norway
+15,FW,Amalie Vevle,Eikeland,3,46,Norway
+16,DF,Mathilde Hauge,Harviken,0,13,Norway
+17,FW,Julie,Blakstad,3,30,Norway
+18,MF,Frida Leonhardsen,Maanum,11,69,Norway
+19,DF,Marit Bratberg,Lund,0,6,Norway
+20,FW,Emilie Bosshard,Haavi,16,101,Norway
+21,FW,Anna Langas,Josendal,0,9,Norway
+22,FW,Sophie Roman,Haug,8,11,Norway
+23,GK,Aurora,Mikalsen,0,13,Norway
+1,GK,Sasha Jeaneth,Fabrega Bosquez,0,0,Panama
+2,DF,Hilary Stacy,Jaen Rodriguez,0,0,Panama
+3,DF,Wendy Yisbel,Natis Barcenas,0,0,Panama
+4,DF,Katherine Lineth,Castillo Macias,0,0,Panama
+5,DF,Yomira Tibisay,Pinzon Rios,0,0,Panama
+6,MF,Deysire Mayte,Salazar Biscaino,0,0,Panama
+7,MF,Emily Masiel,Cedeno Coba,0,0,Panama
+8,MF,Schiandra Yael,Gonzalez Jurado,0,0,Panama
+9,FW,Karla Paola,Riley Serracin,0,0,Panama
+10,MF,Marta Alexandra,Cox Villarreal,0,0,Panama
+11,MF,Natalia Didelka,Mills Urrunaga,0,0,Panama
+12,GK,Yenith Elizabett,Bailey De La Cruz,0,0,Panama
+13,FW,Riley Madison,Tanner,0,0,Panama
+14,MF,Carmen Milagros,Montenegro Martinez,0,0,Panama
+15,DF,Rosario Del Carmen,Vargas Sarasqueta,0,0,Panama
+16,DF,Rebeca Margoth,Espinosa Justavino,0,0,Panama
+17,MF,Laurie Rachel,Batista Lopez,0,0,Panama
+18,FW,Erika Janeth,Hernandez Diaz,0,0,Panama
+19,FW,Lineth Isabel,Cedeno Valderrama,0,0,Panama
+20,MF,Aldrith Ivana,Quintero Humphries,0,0,Panama
+21,DF,Whitney Nicole,De Obaldia Ayala,0,0,Panama
+22,GK,Farissa Evelin,Cordoba Martinez,0,0,Panama
+23,DF,Carina Alicia,Baltrip Reyes,0,0,Panama
+1,GK,Olivia Alexandra Davies,McDaniel,0,31,Phillipines
+2,DF,Malea Louise,Cesar,1,31,Phillipines
+3,DF,Jessika Rebecca,Cowart,2,21,Phillipines
+4,MF,Jaclyn Katrina,Sawicki,0,23,Phillipines
+5,DF,Hali Moriah,Long,18,76,Phillipines
+6,MF,Tahnai Lauren,Annis,13,38,Phillipines
+7,FW,Sarina Isabel,Bolden,22,39,Phillipines
+8,MF,Sara Kristine,Eggesvik,3,24,Phillipines
+9,FW,Isabella Victoria,Flanigan,3,31,Phillipines
+10,FW,Chandler Blue,McDaniel,5,15,Phillipines
+11,MF,Anicka Chabeli,Castaneda,11,38,Phillipines
+12,MF,Kristen Ryley,Bugay,0,23,Phillipines
+13,DF,Angela Rachael,Beard,0,3,Phillipines
+14,MF,Ma Meryll Krysteen,Serrano,4,10,Phillipines
+15,FW,Carleigh,Frill es,12,37,Phillipines
+16,DF,Sofia Nicole,Harrison,3,37,Phillipines
+17,DF,Alicia,Barker,0,13,Phillipines
+18,GK,Kaiya Rose,Jota,0,1,Phillipines
+19,DF,Dominique Jaylin,Randle,1,27,Phillipines
+20,MF,Quinley Mirielle,Quezada,22,51,Phillipines
+21,FW,Katrina Jacqueline,Guillou,10,27,Phillipines
+22,GK,Kiara Fabiola,Fontanilla,0,8,Phillipines
+23,DF,Reina,Bonta,0,11,Phillipines
+1,GK,Ines,Teixeira Pereira,0,36,Portugal
+2,DF,Catarina Isabel,da Silva Amado,0,27,Portugal
+3,DF,Lucia Catarina,de Sousa Alves,0,12,Portugal
+4,DF,Silvia Marisa,Garcia Rebelo,2,124,Portugal
+5,DF,Joana Filipa,Gaspar da Silva Marchao,1,39,Portugal
+6,MF,Andreia,de Jesus Jacinto,0,28,Portugal
+7,MF,Ana Rute,Santos Marques Rodrigues,0,4,Portugal
+8,MF,Andreia Alexandra,Norton,4,78,Portugal
+9,DF,Ana Catarina,Marques Borges,11,162,Portugal
+10,FW,Jessica Lisandra,Manjenje Nogueira da Silva,15,105,Portugal
+11,MF,Tatiana Vanessa,Ferreira Pinto,5,105,Portugal
+12,GK,Patricia Isabel,de Sousa Barros Moras,0,84,Portugal
+13,MF,Fatima Alexandra,Figueira Pinto,3,80,Portugal
+14,MF,Dolores Isabel,Jacome da Silva,17,152,Portugal
+15,DF,Carole,da Silva Costa,18,158,Portugal
+16,FW,Diana Michaela,Abreu de Sousa e Silva,20,97,Portugal
+17,DF,Ana Rita,da Silva Seiga,0,4,Portugal
+18,FW,Carolina Ana,Trindade Coruche Mendes,23,116,Portugal
+19,DF,Diana Catarina,Ribeiro Gomes,5,38,Portugal
+20,FW,Francisca,Ramos Ribeiro Nazareth de Sous,7,30,Portugal
+21,FW,Ana Ines,Palma Capeta,6,27,Portugal
+22,GK,Ana Rute,Campos da Costa,0,8,Portugal
+23,FW,Telma Raquel,Velosa da Encarnaqao,6,26,Portugal
+1,GK,Courtney Elizabeth,Brosnan,0,26,Republic of Ireland
+2,DF,Claire Mary,O'Riordan,1,19,Republic of Ireland
+3,MF,Chloe Naomi,Mustaki,0,6,Republic of Ireland
+4,DF,Louise Catherine,Quinn,15,108,Republic of Ireland
+5,DF,Niamh,Fahey,1,111,Republic of Ireland
+6,MF,Megan,Connolly,4,43,Republic of Ireland
+7,DF,Diane Evelyn,Caldwell,4,97,Republic of Ireland
+8,MF,Ruesha,Littlejohn,6,75,Republic of Ireland
+9,FW,Amber,Barrett,7,37,Republic of Ireland
+10,MF,Denise Rebecca,O'Sullivan,19,105,Republic of Ireland
+11,MF,Katie Alison,McCabe,19,76,Republic of Ireland
+12,MF,Lily Maria Phoebe,Agg,2,10,Republic of Ireland
+13,DF,Aine Marie,O'Gorman,13,119,Republic of Ireland
+14,FW,Heather Margaret,Payne,1,37,Republic of Ireland
+15,MF,Lucy Jane,Quinn,2,16,Republic of Ireland
+16,GK,Grace Maria,Moloney,0,6,Republic of Ireland
+17,MF,Sinead Louise,Farrelly,0,5,Republic of Ireland
+18,FW,Kyra Taylor,Carusa,2,15,Republic of Ireland
+19,FW,Abbie Sheila,Larkin,1,11,Republic of Ireland
+20,MF,Marissa Maeve,Sheva,0,7,Republic of Ireland
+21,MF,Ciara,Grant,0,18,Republic of Ireland
+22,MF,Isibeal Emma,Atkinson,0,6,Republic of Ireland
+23,GK,Megan Laura,Walsh,0,1,Republic of Ireland
+1,GK,Kaylin Christen,Swart,0,37,South Africa
+2,DF,Lebohang Ester,Ramalepe,4,92,South Africa
+3,DF,Bongeka S' Mangele,Gamede,0,26,South Africa
+4,DF,Noko Alice,Matlou,66,169,South Africa
+5,DF,Fikile Venessa,Magama,0,8,South Africa
+6,MF,Noxolo,Cesane,4,32,South Africa
+7,DF,Karabo Angel,Dhlamini,1,25,South Africa
+8,FW,Hildah Tholakele,Magaia,19,31,South Africa
+9,MF,Gabriela De Jesus Thomas,Salgado,7,28,South Africa
+10,MF,Linda Maserame,Motlhalo,19,69,South Africa
+11,FW,Chrestinah Thembi,Kgatlana,4,72,South Africa
+12,FW,Jermaine,Seoposenwe,20,95,South Africa
+13,DF,Bambanani Nolufefe,Mbane,4,82,South Africa
+14,DF,Tiisetso Martha,Makhi-Ibe-La,2,25,South Africa
+15,MF,Refiloe,Jane,16,134,South Africa
+16,GK,Andile,Dlamini,0,69,South Africa
+17,FW,Melinda,Kgadiete,3,27,South Africa
+18,DF,Sibulele Cecilia,Holweni,16,31,South Africa
+19,MF,Kholosa Mthikazi,Biyana,2,39,South Africa
+20,MF,Robyn Kimberly,Moodaly,2,42,South Africa
+21,GK,Kebotseng Katlego Gertrude,Moletsane,0,1,South Africa
+22,MF,Mapula Nomvula,Kgoale,5,21,South Africa
+23,MF,Wendy,Shongwe,0,2,South Africa
+1,GK,Maria Isabel,Rodriguez Rivero,0,17,Spain
+2,DF,Ona,Batlle Pascual,1,37,Spain
+3,MF,Teresa Jose,Abelleira Duenas,2,22,Spain
+4,DF,Irene,Paredes Hernandez,11,97,Spain
+5,DF,Ivana,Andres Sanz,0,51,Spain
+6,MF,Aitana,Bonma Conca,19,54,Spain
+7,MF,Irene,Guerrero Sanmartin,5,26,Spain
+8,FW,Maria Francesca,Caldentey Oliver,20,61,Spain
+9,FW,Ester,Gonzalez Rodr Giez,26,42,Spain
+10,FW,Jennifer,Hermoso Fuentes,51,105,Spain
+11,MF,Alexia,Putellas Segura,28,109,Spain
+12,DF,Oihane,Hernandez Zurbano,0,14,Spain
+13,GK,Enith,Sal N Marcuello,0,2,Spain
+14,DF,Laia,Codina Panedas,2,9,Spain
+15,FW,Eva Maria,Navarro Garcia,3,14,Spain
+16,MF,Maria,Perez Rabaza,0,5,Spain
+17,FW,Alba Maria,Redondo Ferrer,14,35,Spain
+18,FW,Salma Celeste,Paralluelo Ayingono,8,14,Spain
+19,DF,Olga,Carmona Garc a,3,30,Spain
+20,DF,Rocio,Galvez Luna,0,12,Spain
+21,MF,Claudia,Zornoza Sanchez,0,13,Spain
+22,FW,Athenea,Del Castillo Beii vide,7,30,Spain
+23,GK,Catalina Tomas,Coll Lluch,0,4,Spain
+1,GK,Zecira,Musovic,0,16,Sweden
+2,DF,Jonna Ann-Charlotte,Andersson,3,86,Sweden
+3,DF,Linda Brigitta,Sembrant,17,138,Sweden
+4,DF,Stina Olivia,Lennartsson,0,2,Sweden
+5,DF,Anna Linnea,Sandberg,0,3,Sweden
+6,DF,Magdalena Lilly,Eriksson,10,102,Sweden
+7,FW,Madelen Fatimma Maria,Janogy,8,36,Sweden
+8,FW,Lina Mona Andrea,Hurtig,20,68,Sweden
+9,MF,Kosovare,Asllani,45,176,Sweden
+10,FW,Eva Sofia,Jakobsson,23,148,Sweden
+11,FW,Emma Stina,Blackstenius,29,97,Sweden
+12,GK,Jennifer Miley,Falk,0,17,Sweden
+13,DF,Amanda,Ilestedt,12,71,Sweden
+14,DF,Gun Nathalie,Bjorn,6,56,Sweden
+15,FW,Rebecka Maria,Blomqvist,7,28,Sweden
+16,MF,Ingrid Filippa,Angeldal,12,46,Sweden
+17,MF,Sara Caroline,Seger,32,238,Sweden
+18,MF,Fridolina,Rolfo,28,83,Sweden
+19,MF,Anna Johanna,Rytting Kaneryd,2,32,Sweden
+20,MF,Hanna Ulrika,Bennison,1,37,Sweden
+21,GK,Tove Evelina,Enblom,0,0,Sweden
+22,MF,Olivia Alma Charlotta,Schough,13,109,Sweden
+23,MF,Elin Ingrid Johanna,Rubensson,4,85,Sweden
+1,GK,Gaelle,Thalmann,0,109,Switzerland
+2,DF,Julia,Stierli,1,33,Switzerland
+3,DF,Lara Katinka,Marti,0,13,Switzerland
+4,DF,Laura,Felber,0,1,Switzerland
+5,DF,Noelle,Maritz,2,108,Switzerland
+6,MF,Geraldine Josephine,Reuteler,11,59,Switzerland
+7,MF,Amira,Arfaoui,0,1,Switzerland
+8,DF,Nadine Andrina,Riesen,0,13,Switzerland
+9,FW,Ana-Maria,Crnogorcevic,71,151,Switzerland
+10,FW,Ramona,Bachmann,58,137,Switzerland
+11,MF,Coumba Louisa,Sow,13,40,Switzerland
+12,GK,Livia Maite,Peng,0,3,Switzerland
+13,MF,Lia Joelle,Walti,5,112,Switzerland
+14,DF,Marion,Rey,0,6,Switzerland
+15,DF,Luana Chiara,Bohler,1,41,Switzerland
+16,MF,Sandrine,Mauron,2,37,Switzerland
+17,MF,Seraina Severin,Pijbel,3,11,Switzerland
+18,DF,Viola Monica,Calligaris,5,46,Switzerland
+19,DF,Eseosa Mandy,Aigbogun,3,95,Switzerland
+20,FW,Fabienne Valerie,Humm,25,80,Switzerland
+21,GK,Seraina,Friedli,0,10,Switzerland
+22,FW,Meriame,Terchoun,2,26,Switzerland
+23,FW,Alisha Debora,Lehmann,6,41,Switzerland
+1,GK,Alyssa Michele,Naeher,0,95,USA
+2,MF,Ashley Nicole,Sanchez,3,25,USA
+3,DF,Sofia Christine,Huerta,0,31,USA
+4,DF,Naomi Haile,Girma,0,20,USA
+5,DF,Kelley Maureen,O'Hara,3,160,USA
+6,FW,Lynn Raenie,Williams,15,55,USA
+7,FW,Alyssa Paola,Thompson,0,6,USA
+8,MF,Julie Beth,Ertz,20,122,USA
+9,MF,Savannah Marie,de Melo,0,3,USA
+10,MF,Lindsey Michelle,Horan,29,133,USA
+11,FW,Sophia Olivia,Smith,14,34,USA
+12,DF,Alana Simone,Cook,1,25,USA
+13,FW,Alexandra Morgan,Carrasco,121,211,USA
+14,DF,Emily Ann,Sonnett,1,77,USA
+15,FW,Megan Anna,Rapinoe,63,202,USA
+16,MF,Rosemary Kathleen,Lavelle,24,91,USA
+17,MF,Andi Maureen,Sullivan,3,49,USA
+18,GK,Casey Grace,Murphy,0,14,USA
+19,DF,Crystal Alyssia,Soubrier,24,136,USA
+20,FW,Trinity Rain,Rodman,4,22,USA
+21,GK,Aubrey Renee,Kingsbury,0,1,USA
+22,MF,Kristen Anne,Mews,7,53,USA
+23,DF,Emily Ann,Fox,1,33,USA
+1,GK,Thi Kieu Oanh,Dao,0,1,Vietnam
+2,DF,Thi Thu Thuong,Luong,0,25,Vietnam
+3,DF,Thi Kieu,Chuong,4,93,Vietnam
+4,DF,Thi Thu,Tran,1,25,Vietnam
+5,DF,Thi Loan,Hoang,2,45,Vietnam
+6,DF,Thi Thuy Nga,Tran,0,5,Vietnam
+7,MF,Thi Tuyet Dung,Nguyen,50,124,Vietnam
+8,MF,Thi Thuy Trang,Tran,8,100,Vietnam
+9,FW,Nhu,Huynh,66,79,Vietnam
+10,MF,Thi Hai Linh,Tran,0,21,Vietnam
+11,MF,Thi Thao,Thai,12,54,Vietnam
+12,FW,Hai Yen,Pham,34,75,Vietnam
+13,DF,Thi Diem My,Le,0,38,Vietnam
+14,GK,Thi Kim Thanh,Tran,0,85,Vietnam
+15,FW,Thi Thuy Hang,Nguyen,1,21,Vietnam
+16,MF,Thi Van,Duong,2,25,Vietnam
+17,DF,Thi Thu Thao,Tran,0,11,Vietnam
+18,FW,Thi Hoa,Vu,0,9,Vietnam
+19,MF,Thi Thanh Nha,Nguyen,7,29,Vietnam
+20,GK,Thi Hang,Khong,0,20,Vietnam
+21,MF,Thi Van Su,Ngan,6,36,Vietnam
+22,DF,Thi My Anh,Nguyen,0,18,Vietnam
+23,MF,Thi Bich Thuy,Nguyen,15,85,Vietnam
+1,GK,Catherine,Musonda,0,0,Zambia
+2,DF,Judith,Soko,0,0,Zambia
+3,DF,Lushomo,Mweemba,0,0,Zambia
+4,MF,Susan,Banda,0,0,Zambia
+5,DF,Mary,Mulenga,0,0,Zambia
+6,MF,Mary,Wilombe,0,0,Zambia
+7,FW,Ochumba Oseke,Lubandji,0,0,Zambia
+8,DF,Margaret,Belemij,0,0,Zambia
+9,FW,Hellen,Mubanga,0,0,Zambia
+10,MF,Comfort,Selemani,0,0,Zambia
+11,FW,Barbra,Banda,0,0,Zambia
+12,MF,Evarine Suzeni,Katongo,0,0,Zambia
+13,DF,Martha,Tembo,0,0,Zambia
+14,MF,Ireen,Lungu,0,0,Zambia
+15,DF,Agness,Musesa,0,0,Zambia
+16,GK,Leticia,Lungu,0,0,Zambia
+17,FW,Racheal,Kundananji,0,0,Zambia
+18,GK,Eunice,Sakala,0,0,Zambia
+19,FW,Siomala,Mapepa,0,0,Zambia
+20,FW,Hellen Nga'ndwe,Chanda,0,0,Zambia
+21,MF,Avell,Chitundu,0,0,Zambia
+22,DF,Esther,Banda,0,0,Zambia
+23,DF,Vast,Phiri,0,0,Zambia

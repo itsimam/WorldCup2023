@@ -1,0 +1,65 @@
+MatchNo,Stage ,HomeTeam,OutsiderTeam,HomeGoals,OutsiderGoals,Winner,WonBy,Attendance,RefereeName
+1,A,New Zealand,Norway,1,0,New Zealand,Goals,42137,Yoshimi Yamashita
+2,B,Australia,Republic of Ireland,1,0,Australia,Goals,75784,Edina Alves
+3,B,Nigeria,Canada,0,0,DRAW,NULL,21410,Lina Lehtovaara
+4,A,Phillipines,Switzerland,0,2,Switzerland,Goals,13711,Vincentia Amedome
+5,C,Spain,Costa Rica,3,0,Spain,Goals,22966,Casey Reibelt
+6,E,USA,Vietnam,3,0,USA,Goals,41107,Bouchra Karboubi
+7,C,Zambia,Japan,0,5,Japan,Goals,16111,Tess Olofsson
+8,D,England,Haiti,1,0,England,Goals,44369,Emikar Caldera Barrera
+9,D,Denmark,China,1,0,Denmark,Goals,16989,Marie-Soleil Beaudoin
+10,G,Sweden,South Africa,2,1,Sweden,Goals,18317,Ekaterina Katja Koroleva
+11,E,Netherlands,Portugal,1,0,Netherlands,Goals,11991,Kateryna Monzul
+12,F,France,Jamaica,0,0,DRAW,NULL,39045,Maria Carvajal
+13,G,Italy,Argentina,1,0,Italy,Goals,30889,Melissa Borjas
+14,H,Germany,Morocco,6,0,Germany,Goals,27256,Tori Penso
+15,F,Brazil,Panama,4,0,Brazil,Goals,13142,Cheryl Foster
+16,H,Colombia,South Korea,2,0,Colombia,Goals,24323,Rebecca Welch
+17,A,New Zealand,Phillipines,0,1,Phillipines,Goals,32357,Katia Itzel Garcia
+18,A,Switzerland,Norway,0,0,DRAW,NULL,10769,Stephanie Frappart
+19,C,Japan,Costa Rica,2,0,Japan,Goals,6992,Maria Sole Ferrieri Caputi
+20,C,Spain,Zambia,5,0,Spain,Goals,20983,Oh-Hyeon Jeong
+21,B,Canada,Republic of Ireland,2,1,Canada,Goals,17065,Laura Fortunato
+22,E,USA,Netherlands,1,1,DRAW,NULL,27312,Yoshimi Yamashita
+23,E,Portugal,Vietnam,2,0,Portugal,Goals,6645,Salima Mukansanga
+24,B ,Australia,Nigeria,2,3,Nigeria,Goals,49156,Esther Staubli
+25,G,Argentina,South Africa,2,2,DRAW,NULL,8834,Anna-Marie Keighley
+26,D,England,Denmark,1,0,England,Goals,40439,Tess Olofsson
+27,D,China,Haiti,1,0,China,Goals,12675,Marta Huerta de Aza
+28,G,Sweden,Italy,5,0,Sweden,Goals,29143,Cheryl Foster
+29,F,France,Brazil,2,1,France,Goals,49378,Kate Jacewicz
+30,F,Panama,Jamaica,0,1,Jamaica,Goals,15987,Kateryna Monzul
+31,H,South Korea,Morocco,0,1,Morocco,Goals,12886,Edina Alves
+32,A,Norway,Phillipines,6,0,Norway,Goals,34697,Marie-Soleil Beaudoin
+33,A,Switzerland,New Zealand,0,0,DRAW,NULL,25947,Tori Penso
+34,H,Germany,Colombia,1,2,Colombia,Goals,40499,Melissa Borjas
+35,C,Japan,Spain,4,0,Japan,Goals,20957,Ekaterina Katja Koroleva
+36,C,Costa Rica,Zambia,1,3,Zambia,Goals,8117,Bouchra Karboubi
+37,B,Canada,Australia,0,4,Australia,Goals,27706,Stephanie Frappart
+38,B,Republic of Ireland,Nigeria,0,0,DRAW,NULL,24884,Katia Itzel Garcia
+39,E,Portugal,USA,0,0,DRAW,NULL,42958,Rebecca Welch
+40,E,Vietnam,Netherlands,0,7,Netherlands,Goals,8215,Ivana Martincic
+41,D,Haiti,Denmark,0,2,Denmark,Goals,17897,Oh-Hyeon Jeong
+42,D,China,England,1,6,England,Goals,13497,Casey Reibelt
+43,G,South Africa,Italy,3,2,South Africa,Goals,14967,Maria Carvajal
+44,G,Argentina,Sweden,0,2,Sweden,Goals,17907,Salima Mukansanga
+45,F,Panama,France,3,6,France,Goals,40498,Laura Fortunato
+46,F ,Jamaica,Brazil,0,0,DRAW,NULL,27638,Esther Staubli
+47,H,South Korea,Germany,1,1,DRAW,NULL,38945,Anna-Marie Keighley
+48,H,Morocco,Colombia,1,0,Morocco,Goals,17342,Maria Sole Ferrieri Caputi
+49,16,Switzerland,Spain,1,5,Spain,Goals,43217,Cheryl Foster
+50,16,Japan,Norway,3,1,Japan,Goals,33042,Edina Alves
+51,16,Netherlands,South Africa,2,0,Netherlands,Goals,40233,Yoshimi Yamashita
+52,16,Sweden,USA,0,0,Sweden,Penalties,27706,Stephanie Frappart
+53,16,Australia,Denamrk,2,0,Austrailia,Goals,75784,Rebecca Welch
+54,16,England,Nigeria,0,0,England,Penalties,49461,Melissa Borjas
+55,16,France,Morocco,4,0,France,Goals,13557,Tori Penso
+56,16,Colombia,Jamaica,1,0,Colombia,Goals,27706,Kate Jacewicz
+57,Quarter-Final,Spain,Netherlands,2,1,Spain,Goals,32021,Stephanie Frappart
+58,Quarter-Final,Japan,Sweden,1,2,Sweden,Goals,43217,Esther Staubli
+59,Quarter-Final,Australia,France,0,0,Australia,Penalties,49461,Maria Carvajal
+60,Quarter-Final,England,Colombia,2,1,England,Goals,75784,Ekaterina Katja Koroleva
+61,Semi-Final,Spain,Sweden,2,1,Spain,Goals,43217,Edina Alves
+62,Semi-Final,Austrailia,England,1,3,England,Goals,75784,Tori Penso
+63,3rd place,Sweden,Australia,2,0,Sweden,Goals,49461,Cheryl Foster
+64,Final,Spain,England,1,0,Spain,Goals,75784,Tori Penso

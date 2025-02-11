@@ -1,0 +1,129 @@
+GameDate,GameTime,MatchNo,TeamName,StadiumName
+2023-07-20,11:00,1,New Zealand,Eden Park
+2023-07-20,11:00,1,Norway,Eden Park
+2023-07-20,14:00,2,Australia,Stadium Australia
+2023-07-20,14:00,2,Republic of Ireland,Stadium Australia
+2023-07-21,06:30,3,Nigeria,Melbourne Rectangular Stadium
+2023-07-21,06:30,3,Canada,Melbourne Rectangular Stadium
+2023-07-21,09:00,4,Phillipines,Forsyth Barr Stadium
+2023-07-21,09:00,4,Switzerland,Forsyth Barr Stadium
+2023-07-21,11:30,5,Spain,Wellington Regional Stadium
+2023-07-21,11:30,5,Costa Rica,Wellington Regional Stadium
+2023-07-22,05:00,6,USA,Eden Park
+2023-07-22,05:00,6,Vietnam,Eden Park
+2023-07-22,11:00,7,Zambia,FMG Stadium Waikato
+2023-07-22,11:00,7,Japan,FMG Stadium Waikato
+2023-07-22,13:30,8,England,Suncorp Stadium
+2023-07-22,13:30,8,Haiti,Suncorp Stadium
+2023-07-22,16:00,9,Denmark,HBF Park
+2023-07-22,16:00,9,China,HBF Park
+2023-07-23,09:00,10,Sweden,Wellington Regional Stadium
+2023-07-23,09:00,10,South Africa,Wellington Regional Stadium
+2023-07-23,11:30,11,Netherlands,Forsyth Barr Stadium
+2023-07-23,11:30,11,Portugal,Forsyth Barr Stadium
+2023-07-23,14:00,12,France,Allianz Stadium
+2023-07-23,14:00,12,Jamaica,Allianz Stadium
+2023-07-24,10:00,13,Italy,Eden Park
+2023-07-24,10:00,13,Argentina,Eden Park
+2023-07-24,12:30,14,Germany,Melbourne Rectangular Stadium
+2023-07-24,12:30,14,Morocco,Melbourne Rectangular Stadium
+2023-07-24,15:00,15,Brazil,Hindmarsh Stadium
+2023-07-24,15:00,15,Panama,Hindmarsh Stadium
+2023-07-25,06:00,16,Colombia,Allianz Stadium
+2023-07-25,06:00,16,South Korea,Allianz Stadium
+2023-07-25,09:30,17,New Zealand,Wellington Regional Stadium
+2023-07-25,09:30,17,Phillipines,Wellington Regional Stadium
+2023-07-25,12:00,18,Switzerland,FMG Stadium Waikato
+2023-07-25,12:00,18,Norway,FMG Stadium Waikato
+2023-07-26,09:00,19,Japan,Forsyth Barr Stadium
+2023-07-26,09:00,19,Costa Rica,Forsyth Barr Stadium
+2023-07-26,11:30,20,Spain,Eden Park
+2023-07-26,11:30,20,Zambia,Eden Park
+2023-07-26,16:00,21,Canada,HBF Park
+2023-07-26,16:00,21,Republic of Ireland,HBF Park
+2023-07-27,05:00,22,USA,Wellington Regional Stadium
+2023-07-27,05:00,22,Netherlands,Wellington Regional Stadium
+2023-07-27,11:30,23,Portugal,FMG Stadium Waikato
+2023-07-27,11:30,23,Vietnam,FMG Stadium Waikato
+2023-07-27,14:00,24,Australia,Suncorp Stadium
+2023-07-27,14:00,24,Nigeria,Suncorp Stadium
+2023-07-28,04:00,25,Argentina,Forsyth Barr Stadium
+2023-07-28,04:00,25,South Africa,Forsyth Barr Stadium
+2023-07-28,12:30,26,England,Allianz Stadium
+2023-07-28,12:30,26,Denmark,Allianz Stadium
+2023-07-28,15:00,27,China,Hindmarsh Stadium
+2023-07-28,15:00,27,Haiti,Hindmarsh Stadium
+2023-07-29,11:30,28,Sweden,Wellington Regional Stadium
+2023-07-29,11:30,28,Italy,Wellington Regional Stadium
+2023-07-29,14:00,29,France,Suncorp Stadium
+2023-07-29,14:00,29,Brazil,Suncorp Stadium
+2023-07-29,16:30,30,Panama,HBF Park
+2023-07-29,16:30,30,Jamaica,HBF Park
+2023-07-30,08:30,31,South Korea,Hindmarsh Stadium
+2023-07-30,08:30,31,Morocco,Hindmarsh Stadium
+2023-07-30,11:00,32,Norway,Eden Park 
+2023-07-30,11:00,32,Phillipines,Eden Park 
+2023-07-30,11:00,33,Switzerland,Forsyth Barr Stadium
+2023-07-30,11:00,33,New Zealand,Forsyth Barr Stadium
+2023-07-30,13:30,34,Germany,Allianz Stadium
+2023-07-30,13:30,34,Colombia,Allianz Stadium
+2023-07-31,11:00,35,Japan,Wellington Regional Stadium
+2023-07-31,11:00,35,Spain,Wellington Regional Stadium
+2023-07-31,11:00,36,Costa Rica,FMG Stadium Waikato
+2023-07-31,11:00,36,Zambia,FMG Stadium Waikato
+2023-07-31,14:00,37,Canada,Melbourne Rectangular Stadium
+2023-07-31,14:00,37,Australia,Melbourne Rectangular Stadium
+2023-07-31,14:00,38,Republic of Ireland,Suncorp Stadium
+2023-07-31,14:00,38,Nigeria,Suncorp Stadium
+2023-08-01,11:00,39,Portugal,Eden Park
+2023-08-01,11:00,39,USA,Eden Park
+2023-08-01,11:00,40,Vietnam,Forsyth Barr Stadium
+2023-08-01,11:00,40,Netherlands,Forsyth Barr Stadium
+2023-08-01,15:00,41,Haiti,HBF Park
+2023-08-01,15:00,41,Denmark,HBF Park
+2023-08-01,15:00,42,China,Hindmarsh Stadium
+2023-08-01,15:00,42,England,Hindmarsh Stadium
+2023-08-02,11:00,43,South Africa,Wellington Regional Stadium
+2023-08-02,11:00,43,Italy,Wellington Regional Stadium
+2023-08-02,11:00,44,Argentina ,FMG Stadium Waikato
+2023-08-02,11:00,44,Sweden,FMG Stadium Waikato
+2023-08-02,14:00,45,Panama,Allianz Stadium
+2023-08-02,14:00,45,France,Allianz Stadium
+2023-08-02,14:00,46,Jamaica,Melbourne Rectangular Stadium
+2023-08-02,14:00,46,Brazil,Melbourne Rectangular Stadium
+2023-08-03,14:00,47,South Korea,Suncorp Stadium
+2023-08-03,14:00,47,Germany,Suncorp Stadium
+2023-08-03,14:00,48,Morocco,HBF Park
+2023-08-03,14:00,48,Colombia,HBF Park
+2023-08-05,9:00,49,Switzerland,Eden Park
+2023-08-05,9:00,49,Spain,Eden Park
+2023-08-05,12:00,50,Japan,Wellington Regional Stadium
+2023-08-05,12:00,50,Norway,Wellington Regional Stadium
+2023-08-06,6:00,51,Netherlands,Allianz Stadium
+2023-08-06,6:00,51,South Africa,Allianz Stadium
+2023-08-06,13:00,52,Sweden,Melbourne Rectangular Stadium
+2023-08-06,13:00,52,USA,Melbourne Rectangular Stadium
+2023-08-07,14:30,53,Australia,Stadium Australia
+2023-08-07,14:30,53,Denmark,Stadium Australia
+2023-08-07,11:30,54,England,Suncorp Stadium
+2023-08-07,11:30,54,Nigeria,Suncorp Stadium
+2023-08-08,15:00,55,France,Hindmarsh Stadium
+2023-08-08,15:00,55,Morocco,Hindmarsh Stadium
+2023-08-08,12:00,56,Colombia,Melbourne Rectangular Stadium
+2023-08-08,12:00,56,Jamaica,Melbourne Rectangular Stadium
+2023-08-08,5:00,57,Spain,Wellington Regional Stadium
+2023-08-08,5:00,57,Netherlands,Wellington Regional Stadium
+2023-08-08,11:30,58,Sweden,Eden Park
+2023-08-08,11:30,58,Japan,Eden Park
+2023-08-12,11:00,59,Australia,Suncorp Stadium
+2023-08-12,11:00,59,France,Suncorp Stadium
+2023-08-12,14:30,60,England,Stadium Australia
+2023-08-12,14:30,60,Colombia,Stadium Australia
+2023-08-15,12:00,61,Spain,Eden Park
+2023-08-15,12:00,61,Sweden,Eden Park
+2023-08-16,14:00,62,Australia,Stadium Australia
+2023-08-16,14:00,62,England,Stadium Australia
+2023-08-19,12:00,63,Sweden,Suncorp Stadium
+2023-08-19,12:00,63,Australia,Suncorp Stadium
+2023-08-20,14:00,64,Spain,Stadium Australia
+2023-08-20,14:00,64,England,Stadium Australia
